@@ -3,6 +3,8 @@
 This project simulates an enterprise-level network architecture using **Cisco Packet Tracer**, built to understand and practice core networking concepts. It includes real-world lab setups covering:
 
 - ✅ DHCP (Dynamic IP Assignment)
+  ![DHCP Configuration](https://github.com/user-attachments/assets/8fbc04c7-0dac-4268-a242-6d23db0534b7)
+
 - 🌐 DNS (Domain Name Resolution)
 - 🔄 VLAN Segmentation & Isolation
 - 📡 Inter-VLAN Routing using Router-on-a-Stick
