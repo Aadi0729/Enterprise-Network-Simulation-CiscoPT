@@ -41,20 +41,25 @@ Located in `/screenshots/` folder:
 
 ## 📁 Project Structure
 
-Enterprise-Networking-Simulation/
-├── Lab1_DHCP.pkt
-├── Lab2_DNS.pkt
-├── Lab3_VLAN.pkt
-├── Lab4_InterVLAN_Routing.pkt
-├── screenshots/
-│ ├── ping-success.png
-│ ├── cli-configs.png
-│ └── topology.png
-└── README.md
+Enterprise-Networking-Simulation
 
-yaml
-Copy
-Edit
+├── Lab1_DHCP.pkt
+
+├── Lab2_DNS.pkt
+
+├── Lab3_VLAN.pkt
+
+├── Lab4_InterVLAN_Routing.pkt
+
+├── screenshots
+
+│ ├── ping-success.png
+
+│ ├── cli-configs.png
+
+│ └── topology.png
+
+└── README.md
 
 ---
 
