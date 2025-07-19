@@ -53,19 +53,13 @@ Enterprise-Networking-Simulation
 
 ├── screenshots
 
-│ ├── ping-success.png
+│   ├── ping-success.png
 
-│ ├── cli-configs.png
+│   ├── cli-configs.png
 
-│ └── topology.png
+│   └── topology.png
 
 └── README.md
-
----
-
-## 🚀 Tools Used
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-- Self-configured home lab (1 Laptop with 4GB RAM)
 
 ---
 
