@@ -1,4 +1,4 @@
-# Enterprise Networking Simulation 🖧
+# Enterprise-Network-Simulation-CiscoPT 🖧
 
 This project simulates an enterprise-level network architecture using **Cisco Packet Tracer**, built to understand and practice core networking concepts. It includes real-world lab setups covering:
 
